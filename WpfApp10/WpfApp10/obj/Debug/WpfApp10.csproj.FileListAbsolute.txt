@@ -1,0 +1,17 @@
+C:\Users\musa\source\repos\WpfApp10\WpfApp10\bin\Debug\WpfApp10.exe.config
+C:\Users\musa\source\repos\WpfApp10\WpfApp10\bin\Debug\WpfApp10.exe
+C:\Users\musa\source\repos\WpfApp10\WpfApp10\bin\Debug\WpfApp10.pdb
+C:\Users\musa\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csprojAssemblyReference.cache
+C:\Users\musa\source\repos\WpfApp10\WpfApp10\obj\Debug\MainWindow.g.cs
+C:\Users\musa\source\repos\WpfApp10\WpfApp10\obj\Debug\App.g.cs
+C:\Users\musa\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.cache
+C:\Users\musa\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.lref
+C:\Users\musa\source\repos\WpfApp10\WpfApp10\obj\Debug\MainWindow.baml
+C:\Users\musa\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.g.resources
+C:\Users\musa\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.Properties.Resources.resources
+C:\Users\musa\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.GenerateResource.cache
+C:\Users\musa\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.CoreCompileInputs.cache
+C:\Users\musa\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.exe
+C:\Users\musa\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.pdb
+C:\Users\musa\source\repos\WpfApp10\WpfApp10\obj\Debug\Window1.g.cs
+C:\Users\musa\source\repos\WpfApp10\WpfApp10\obj\Debug\Window1.baml
